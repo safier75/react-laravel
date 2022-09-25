@@ -8,13 +8,11 @@ const Header = () => {
           <div className="row">
             <div className="col-12 col-lg-6 header-left-side d-flex justify-content-center flex-column align-items-start ">
               <h1 className="display-2">
-                Online Payment Made <br /> Easy For You.
+                SafierTech Pvt. Ltd. <br /> Provides the solution.
               </h1>
               <p className="main-hero-para">
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Et,
-                quia quis? Ipsa officia ad deserunt voluptate quam, nisi odio
-                officiis tempora recusandae voluptate quam, nisi odio officiis
-                tempora recusandae
+                We are here to provide you the best service in technical fields like weighing bridge and serviliance area.The repaier of equepments like load cell,contact switch,load pannel,etc.
+
               </p>
               <h3>Get early access for you</h3>
               <div className="input-group mt-3">

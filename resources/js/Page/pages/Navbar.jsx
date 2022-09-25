@@ -11,7 +11,7 @@ const Navbar = () => {
         <nav class="navbar navbar-expand-lg navbar-light ">
           <div class="container">
             <a class="navbar-brand" href="#">
-              ThapaPay
+              SafierTech
             </a>
             <button
               class="navbar-toggler"
